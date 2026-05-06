@@ -164,14 +164,17 @@ All pages share consistent KPI cards and are connected via Department and Year s
 
 ## Dashboard Preview
 
-**Overview**
-![DB.Overview](images/DB.Overview.png)
+**Overview**  
+![Overview](Screenshot%20(151).png)
 
-**Profile**
-![Profile](images/Profile.png)
+**Profile**  
+![Profile](Screenshot%20(152).png)
 
-**What**
-![What](images/What.png)
+**What**  
+![What](Screenshot%20(153).png)
 
-**Why**
-![Why](images/Why.png)
+**Why**  
+![Why](Screenshot%20(154).png)
+
+**Key Insights**  
+![Key Insights](Screenshot%20(158).png)
